@@ -1,0 +1,3 @@
+/home/jerome/workspace/CMake_Examples/CMake_Beispiel_01/build/CMakeFiles/edit_cache.dir
+/home/jerome/workspace/CMake_Examples/CMake_Beispiel_01/build/CMakeFiles/rebuild_cache.dir
+/home/jerome/workspace/CMake_Examples/CMake_Beispiel_01/build/CMakeFiles/Hello_World.dir

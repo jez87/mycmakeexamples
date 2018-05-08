@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../MathFunctions/MathFunctions.h
+
+../include/ProgramConfig.h
+
+../include/internal_functions.h
+
+/home/jerome/workspace/CMake_Examples/CMake_Beispiel_04/src/internal_functions.cpp
+iostream
+-
+../include/internal_functions.h
+-
+
+/home/jerome/workspace/CMake_Examples/CMake_Beispiel_04/src/main.cpp
+iostream
+-
+ProgramConfig.h
+/home/jerome/workspace/CMake_Examples/CMake_Beispiel_04/src/ProgramConfig.h
+internal_functions.h
+/home/jerome/workspace/CMake_Examples/CMake_Beispiel_04/src/internal_functions.h
+MathFunctions.h
+-
+
